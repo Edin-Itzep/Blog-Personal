@@ -1,2 +1,2 @@
 # Blog-Personal
-Práctica de Maquetación con CSS puro
+## Práctica de Maquetación con CSS puro
